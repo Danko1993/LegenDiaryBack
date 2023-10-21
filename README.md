@@ -1,5 +1,7 @@
 # LegenDiaryBack
 
+## Indrotuction
+
 The application is the result of the work of a group of 3 people during the course as a credit project. 
 
 The idea for the app , was to create a site to learn about local legends and beliefs without searching hundreds of pages.
@@ -11,3 +13,22 @@ In order to achieve compatibility between the various functionalities of the web
 The project is in the process of being expanded with new functionalities.
 
 Backend of the project.
+
+## Features 
+
+Features below apply for both back and front-end part of the project.
+
+- User securte registration and login
+- Browsing a map with poits of interest
+- Adding points of interest with description and photos
+- Browsing local radio stations
+- Integrated weather API
+- Score system to reward most active and most effective users (still in progress)
+
+## Technologies
+
+- SpringBoot
+- Spring Security
+- Hibernate
+- PostreSQL
+- JJWT jsonwebtoken
